@@ -1,0 +1,5 @@
+﻿  function.c
+  main.c
+C:\Users\user\Desktop\C files\Cpts_121\PA\PA3\Frimpong_pa3\Frimpong_pa3\main.c(59,67): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Frimpong_pa3.vcxproj -> C:\Users\user\Desktop\C files\Cpts_121\PA\PA3\Frimpong_pa3\Debug\Frimpong_pa3.exe
